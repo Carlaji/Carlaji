@@ -1,4 +1,4 @@
-### Hey, I'm Carlaji <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey, I'm Carlaji <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <img src="https://github.com/Carlaji/Carlaji/assets/91894126/7bef5447-fe86-4c0a-b1a5-aa32237c1067" alt= "Gif coding" height= "400" 
 </p>
